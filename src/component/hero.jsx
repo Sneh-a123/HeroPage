@@ -23,7 +23,7 @@ function hero(){
                         bottom: 70,
                         transition: easeInOut
                     }}
-                    className="md:w-[300px] w-[170px] relative md:bottom-[50px] left-[10%] group-hover:opacity-40 hover:opacity-100 transition duration-300 group-hover:z-10 hover:z-20 z-30" src={Image2} alt="" />
+                    className="md:w-[300px] w-[170px] relative md:bottom-[50px] left-[10%] group-hover:opacity-40 hover:opacity-100 transition duration-300 group-hover:z-10 hover:z-20 z-10" src={Image2} alt="" />
                     <motion.img 
                      whileHover={{
                         left: 300,
